@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  theCatApp
+
+  Created by Julián Granada on 6/09/20.
+  Copyright © 2020 Julián Granada. All rights reserved.
+*/
+"ERROR" = "Error";
+"OK" = "OK";
+"NO_INTERNET_CONNECTION" = "Please make sure you're connected to the Internet and try again.";
+"TIME_OUT_ERROR" = "Your request is taking too long, please try again later.";
+"GET_BREEDS_ERROR" = "There was an error trying to get cat breeds, please try again later.";
+"GET_CAT_IMAGE_ERROR" = "There was an error trying to get cat image, please try again later.";
+"SEND_VOTE_ERROR" = "There was an error trying to send you photo vote, please try again later.";
+"UNKNOWN_ERROR" = "We are experiencing some issues, please try again later.";
